@@ -22,6 +22,15 @@ html,body{
     align-items: center;
     font-size: 3em;
 }
+#down,
 #icon{
     cursor: pointer;
+}
+.faizi,
+.ali{
+    color: red;
+}
+p{
+    display: flex;
+    gap: 20px;
 }
